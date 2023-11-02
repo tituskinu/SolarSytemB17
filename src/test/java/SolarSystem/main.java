@@ -14,8 +14,12 @@ public class main {
         Sun.name="Titus";
         Sun.color="Black";
         Sun.temp="Hot";
+        FeaturePlanet3
+
+        planet_3 pluto=new planet_3();
 
         planet_2 pluto=new planet_2();
+
         pluto.color="green";
         pluto.name="abracadabda";
         pluto.temp="100000000";
