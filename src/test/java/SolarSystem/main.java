@@ -8,5 +8,12 @@ public class main {
         solasys.Planets="3";
         solasys.Stars="10";
 
+
+
+        FeatureSun Sun=new FeatureSun();
+        Sun.name="Titus";
+        Sun.color="Black";
+        Sun.temp="Hot";
+
     }
 }
