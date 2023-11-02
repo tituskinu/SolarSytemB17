@@ -13,7 +13,7 @@ public class main {
         FeatureSun Sun=new FeatureSun();
         Sun.name="Titus";
         Sun.color="Black";
-        Sun.temp="Hot";
+        Sun.temp="455685662";
 
     }
 }
