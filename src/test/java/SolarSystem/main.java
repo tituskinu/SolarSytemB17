@@ -15,5 +15,12 @@ public class main {
         Sun.color="Black";
         Sun.temp="Hot";
 
+
+        planet_3 pluto=new planet_3();
+        pluto.color="green";
+        pluto.name="abracadabda";
+        pluto.temp="100000000";
+        pluto.radius="854566565656km";
+
     }
 }
